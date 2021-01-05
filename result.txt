@@ -1,0 +1,50 @@
+SPARK_MAJOR_VERSION is set to 2, using Spark2
+/usr/hdp/2.5.0.0-1245/spark2/python/lib/pyspark.zip/pyspark/sql/context.py:477: DeprecationWarning: HiveContext is deprecated in Spark 2.0.0. Please use SparkSession.builder.enableHiveSupport().getOrCreate() instead.
+/usr/hdp/2.5.0.0-1245/spark2/python/lib/pyspark.zip/pyspark/sql/context.py:477: DeprecationWarning: HiveContext is deprecated in Spark 2.0.0. Please use SparkSession.builder.enableHiveSupport().getOrCreate() instead.
+
+Ratings for user ID 0:
+Toy Story (1995) 5.0
+Aladdin (1992) 5.0
+Lion King, The (1994) 5.0
+Amistad (1997) 1.0
+Braveheart (1995) 1.0
+Apollo 13 (1995) 1.0
+
+Top 40 movie recommendations:
+[Stage 51:==========>      (6 + 4) / 10][Stage 55:>                (0 + 0) / 10][Stage 55:===========>                                             (2 + 3) / 10][Stage 55:============================>                            (5 + 3) / 10][Stage 53:==================>                                    (66 + 4) / 200][Stage 53:=========================>                             (93 + 4) / 200][Stage 53:==================================>                   (129 + 4) / 200][Stage 53:==========================================>           (158 + 4) / 200][Stage 53:===================================================>  (191 + 4) / 200][Stage 56:=======>                                               (28 + 4) / 200][Stage 56:===============>                                       (55 + 4) / 200][Stage 56:=======================>                               (85 + 4) / 200][Stage 56:============================>                         (107 + 4) / 200][Stage 56:======================================>               (144 + 4) / 200][Stage 56:===============================================>      (176 + 4) / 200][Stage 57:====================>                                  (75 + 6) / 200][Stage 57:=========================>                             (93 + 4) / 200][Stage 57:===================================>                  (130 + 4) / 200][Stage 57:============================================>         (165 + 4) / 200][Stage 57:=============================================>        (167 + 4) / 200]                                                                                [Stage 77:===============>                                       (58 + 4) / 200][Stage 77:===================>                                   (72 + 4) / 200][Stage 77:=======================>                               (85 + 5) / 200][Stage 77:===========================>                          (102 + 4) / 200][Stage 77:==================================>                   (127 + 4) / 200][Stage 77:==========================================>           (159 + 4) / 200][Stage 77:===================================================>  (190 + 4) / 200]                                                                                (u'Sound of Music, The (1965)', 8.4233770370483398)
+(u'Beauty and the Beast (1991)', 7.3898038864135742)
+(u'Starship Troopers (1997)', 6.5899505615234375)
+(u"It's a Wonderful Life (1946)", 6.1920185089111328)
+(u'Wizard of Oz, The (1939)', 5.7920689582824707)
+(u'Star Trek: The Wrath of Khan (1982)', 5.2972550392150879)
+(u'Casablanca (1942)', 5.1698293685913086)
+(u'Empire Strikes Back, The (1980)', 5.1662015914916992)
+(u'Liar Liar (1997)', 5.1328816413879395)
+(u'Star Wars (1977)', 4.9348115921020508)
+(u'Scream (1996)', 4.9252657890319824)
+(u'Blues Brothers, The (1980)', 4.9151792526245117)
+(u'Return of the Jedi (1983)', 4.8576803207397461)
+(u'Psycho (1960)', 4.4166750907897949)
+(u'Aliens (1986)', 4.3109798431396484)
+(u'Babe (1995)', 4.2825088500976562)
+(u'E.T. the Extra-Terrestrial (1982)', 4.2064352035522461)
+(u'Field of Dreams (1989)', 4.1936306953430176)
+(u'Star Trek: First Contact (1996)', 3.8730132579803467)
+(u'Batman (1989)', 3.8654794692993164)
+(u'Princess Bride, The (1987)', 3.7890253067016602)
+(u'Boot, Das (1981)', 3.5008573532104492)
+(u'Willy Wonka and the Chocolate Factory (1971)', 3.3896415233612061)
+(u'Sting, The (1973)', 3.3862872123718262)
+(u'Game, The (1997)', 3.3790087699890137)
+(u'Trainspotting (1996)', 3.3181910514831543)
+(u'Terminator, The (1984)', 3.2273478507995605)
+(u'Indiana Jones and the Last Crusade (1989)', 3.1599290370941162)
+(u'Volcano (1997)', 3.1491613388061523)
+(u'Monty Python and the Holy Grail (1974)', 3.128960132598877)
+(u'Alien (1979)', 3.1171417236328125)
+(u'To Kill a Mockingbird (1962)', 3.0683066844940186)
+(u'Hunt for Red October, The (1990)', 3.0676705837249756)
+(u'Eraser (1996)', 3.0624203681945801)
+(u'Raiders of the Lost Ark (1981)', 3.0007321834564209)
+(u'Fugitive, The (1993)', 2.9934635162353516)
+(u'Sense and Sensibility (1995)', 2.9575622081756592)
